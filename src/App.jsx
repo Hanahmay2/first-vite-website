@@ -14,6 +14,7 @@ function App() {
   return (
     <>
       <h1> Hi! </h1>
+      <h2>How are you? </h2>
     </>
   );
 }
